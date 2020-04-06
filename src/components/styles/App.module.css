@@ -1,0 +1,15 @@
+.app {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.listContainer {
+    flex-basis: 100%;
+    text-align: center;
+}
+
+.formContainer {
+    flex-basis: 100%;
+    text-align: center;
+}
